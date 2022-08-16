@@ -3,6 +3,9 @@
 I'm Akin Ayhan. I live in Bursa. I graduated from Eskişehir Osmangazi University, Department of Mathematics - Computer. I have been interested in software and computer hardware since my high school years. I have tried many programming languages and development platforms. I have developed large/small projects. I attend different training camps whenever I have the opportunity,new techniques, different coding languages and new I am learning hardware technologies. for all my lifeto improve my existing skills and learn something new I will continue to work.
 
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=akinayhan&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=akinayhan&show_icons=true&theme=radical)
+
 <!--
 **akinayhan/akinayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
