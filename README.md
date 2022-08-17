@@ -7,7 +7,8 @@ I'm Akin Ayhan. I live in Bursa. I graduated from Eskişehir Osmangazi Universit
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://akinayhan.com/)
 
-
+⚡JAVA  ⚡C# ⚡DART ⚡MATLAB ⚡MAPLE ⚡FLUTTER
+⚡ANDROİD STUDİO ⚡vISUAL STUDIO ⚡VISUAL STUDIO CODE ⚡ECLİPSE
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=akinayhan&show_icons=true&theme=radical)
 
