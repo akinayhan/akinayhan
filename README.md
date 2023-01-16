@@ -9,11 +9,38 @@ I'm Akin Ayhan. I live in Bursa. I graduated from Eskişehir Osmangazi Universit
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=link)](https://akinayhan.com/)
 
 
-⚡JAVA  ⚡C# ⚡DART ⚡MATLAB ⚡MAPLE ⚡FLUTTER 
-⚡ANDROİD STUDİO ⚡VISUAL STUDIO ⚡VISUAL STUDIO CODE ⚡ECLİPSE
+
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinayhan&show_icons=true&theme=tokyonight)
+<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://developer.android.com/static/images/logos/android.svg" alt="Android Studio" height="50" /></a>
+<a href="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" target="_blank"><img style="margin: 10px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="Eclipse" height="50" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="Intellij" height="50" /></a>
+<a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img style="margin: 10px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" height="50" /></a>
+<a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img style="margin: 10px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Visual Studio Code" height="50" /></a>
 
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://login.mathworks.com/embedded-login/images/pic-header-mathworks-logo.svg" alt="Matlab" height="50" /></a>
+<a href="https://www.maplesoft.com/" target="_blank"><img style="margin: 10px" src="https://www.maplesoft.com/images2015/Maplesoft_logo2x.png" alt="Maple" height="50" /></a>
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinayhan&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akinayhan&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akinayhan&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akinayhan&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akinayhan&theme=2077&utcOffset=8)
 
 
